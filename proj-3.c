@@ -289,7 +289,7 @@ void intense1()
 
 	// Method 1
 	start_thread(f1);
-        start_thread(f2);
+    start_thread(f2);
 	start_thread(f1);
 	start_thread(f1);
 	start_thread(f2);
